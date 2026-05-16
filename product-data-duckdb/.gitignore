@@ -1,0 +1,11 @@
+product_pipeline.duckdb
+product_pipeline.duckdb.wal
+data/master/master.sqlite
+reports/*.csv
+reports/*.html
+reports/*.txt
+output/*.parquet
+output/products_by_category/
+output/products_by_ingest_date/
+output/products_per_thread/
+output/test_threaded_export/

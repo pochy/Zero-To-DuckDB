@@ -1,0 +1,5 @@
+{"product":{"jan_code":"4900000000172","name":"Roasted Almonds","price_text":"680","category":"Food"},"maker":{"name":"AI OCR"},"extraction":{"confidence":0.96,"updated_at":"2026-05-09"}}
+{"product":{"jan_code":"4900000000189","name":"Portable Charger","price_text":"3200","category":"Electronics"},"maker":{"name":"AI OCR"},"extraction":{"confidence":0.91,"updated_at":"2026-05-09"}}
+{"product":{"jan_code":"4900000000196","name":"Gift Wrap Set","price_text":"N/A","category":"Stationery"},"maker":{"name":"AI OCR"},"extraction":{"confidence":0.74,"updated_at":"2026-05-10"}}
+{"product":{"jan_code":"","name":"Mystery Item","price_text":"500","category":"Food"},"maker":{"name":"AI OCR"},"extraction":{"confidence":0.52,"updated_at":"2026-05-10"}}
+{"product":{"jan_code":"4900000000202","name":"Room Spray","price_text":"1100","category":"Lifestyle"},"maker":{"name":"AI OCR"},"extraction":{"confidence":0.88,"updated_at":"2026-05-10"}}

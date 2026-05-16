@@ -1,0 +1,8 @@
+jan_code,product_name,price,category_name,maker_name,updated_at
+4900000000011, Coffee Beans 200g ,1200,Food,Maker A,2026-05-01
+4900000000028,Green Tea Bags,850,Food,Maker A,2026-05-01
+,Chocolate Bar,180,Food,Maker A,2026-05-01
+4900000000042,USB-C Cable,980,Electronics,Maker A,2026-05-02
+4900000000059,Notebook A5,invalid,Stationery,Maker A,2026-05-02
+4900000000066,Desk Lamp,-1200,Home,Maker A,2026-05-03
+4900000000073,Organic Soap,450,Beauty,Maker A,2026-05-03
